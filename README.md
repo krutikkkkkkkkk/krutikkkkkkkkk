@@ -13,8 +13,13 @@
 [<img align="left" alt="Sabesan | Twitter" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Sabesan | Instagram" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br>
+
+<hr>
 
 
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=reboot13-git&show_icons=true&hide_title=true&count_private=true" />	<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reboot13-git" />	
+</a>
 
 [website]:https://reboot13.com
 [linkedin]:https://www.linkedin.com/in/krutik-raut-042b6b1ab/
