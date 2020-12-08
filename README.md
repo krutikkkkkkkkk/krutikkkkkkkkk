@@ -8,7 +8,7 @@
 [<img align="left" alt="Sabesan" height="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Sabesan | LinkedIn" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Sabesan | Stackoverflow" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
-<a herf="mailto:reboot13.dev@gmail.com"><img align="left" alt="Sabesan | Gmail" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /><a>
+<a href="mailto:reboot13.dev@gmail.com"><img align="left" alt="Sabesan | Gmail" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /><a>
 [<img align="left" alt="Sabesan | Telegram" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="Sabesan | Twitter" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Sabesan | Instagram" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
