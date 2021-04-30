@@ -1,4 +1,4 @@
-### Hi there, I'm Krutik Raut - aka [Reboot13][website] <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
+### Hi there, I'm Krutik Raut - aka [Reboot13][website] <img src="https://github.com/blackcater/blackcater/blob/main/images/Hi.gif?raw=true" height="32" />
 ## I'm a Web Developer and UI/UX Designer!
 
 <a href="https://www.buymeacoffee.com/reboot13" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height=40px width=150px ></a>
