@@ -1,7 +1,6 @@
 ### Hi there, I'm Krutik Raut - aka [Reboot13][website] <img src="https://github.com/blackcater/blackcater/blob/main/images/Hi.gif?raw=true" height="32" />
 ## I'm a Web Developer and UI/UX Designer!
 
-<a href="https://app.daily.dev/reboot13"><img src="https://api.daily.dev/devcards/02cb001e5f5d47718b858ba043faceeb.png?r=o23" width="400" alt="Krutik Raut's Dev Card"/></a>
 
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=reboot13-git&show_icons=true&hide_title=true&count_private=true" />	<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reboot13-git" />	
 </a>
