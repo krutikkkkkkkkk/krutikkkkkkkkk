@@ -6,7 +6,7 @@ Web Developer / Designer
 
 * 🌍  I'm based in Vadodara,Gujarat
 * ✉️  You can contact me at [reboot13.dev@gmail.com](mailto:reboot13.dev@gmail.com)
-* 🚀  I'm currently working on [Infinity Linkage](http://infinity-linkage.tech)
+* 🚀  I'm currently working on [Infinity Linkage](http://infinitylinkage.com)
 * 🧠  I'm learning React Js
 * 🤝  I'm open to collaborating on UI Paradise
 
