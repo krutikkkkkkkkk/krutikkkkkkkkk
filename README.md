@@ -49,4 +49,4 @@ src="https://img.shields.io/github/followers/reboot13-git?logo=github&style=for-
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/reboot13"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/infinitylinkage"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
