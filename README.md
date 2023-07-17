@@ -8,7 +8,7 @@ Web Developer / Designer
 * ✉️  You can contact me at [krutik@infinitylinkage.com](mailto:krutik@infinitylinkage.com)
 * 🚀  I'm currently working on [Infinity Linkage](http://infinitylinkage.com)
 * 🧠  I'm learning React Js
-* 🤝  I'm open to collaborating on UI Paradise
+* 🤝  I'm open to collaborating on [design.infinity.linkage.com](https://design.infinitylinkage.com)
 
 <a href="https://www.twitter.com/krutikkkkkkkkk" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/krutikkkkkkkkk?logo=twitter&style=for-the-badge&color=a855f7&labelColor=1c1917"
