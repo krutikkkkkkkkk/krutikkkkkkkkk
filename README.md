@@ -4,7 +4,7 @@ Hi 👋 My name is Krutik Raut aka Reboot13
 Web Developer / Designer
 ------------------------
 
-* 🌍  I'm based in Vadodara,Gujarat
+* 🌍  I'm based in Vadodara, Gujarat
 * ✉️  You can contact me at [krutik@infinitylinkage.com](mailto:krutik@infinitylinkage.com)
 * 🚀  I'm currently working on [Infinity Linkage](http://infinitylinkage.com)
 * 🧠  I'm learning React Js
@@ -41,6 +41,10 @@ src="https://img.shields.io/github/followers/reboot13-git?logo=github&style=for-
 [![reboot13-git's GitHub | Stats](https://stats.quine.sh/reboot13-git/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=reboot13-git)
 
 
+[![reboot13-git's GitHub | Languages Over Time](https://stats.quine.sh/reboot13-git/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=reboot13-git)
+
+
+[![reboot13-git's Stack Overflow | Stats](https://stats.quine.sh/reboot13-git/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=reboot13-git)
 ### Socials
 
 <p align="left"> <a href="https://www.codepen.io/reboot13" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.dev.to/reboot13_dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://discord.com/users/reboot13#2060" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.dribbble.com/reboot13_dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a> <a href="https://www.github.com/reboot13-git" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://reboot13.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/reboot13_dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/reboot13" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/krutikkkkkkkkk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/krutikraut" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
