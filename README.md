@@ -12,8 +12,8 @@ Web Developer / Designer
 
 <a href="https://www.twitter.com/krutikkkkkkkkk" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/krutikkkkkkkkk?logo=twitter&style=for-the-badge&color=a855f7&labelColor=1c1917"
-/></a><a href="https://www.github.com/reboot13-git" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/reboot13-git?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a>
+/></a><a href="https://www.github.com/krutikkkkkkkkk" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/krutikkkkkkkkk?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a>
 
 ### Skills
 
