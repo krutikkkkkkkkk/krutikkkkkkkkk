@@ -1,4 +1,4 @@
-Hi 👋 My name is Krutik Raut aka Reboot13
+Hi 👋 My name is Krutik Raut aka UI Critic ~ Figma Boy
 =========================================
 
 Web Developer / Designer
