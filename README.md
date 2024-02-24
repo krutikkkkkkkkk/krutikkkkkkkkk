@@ -53,7 +53,7 @@ src="https://img.shields.io/github/followers/krutikkkkkkkkk?logo=github&style=fo
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/reboot13-git"><img src="https://github-readme-stats.vercel.app/api?username=reboot13-git&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="reboot13-git's GitHub stats" /></a>
+<a href="http://www.github.com/reboot13-git"><img src="https://github-readme-stats.vercel.app/api?username=krutikkkkkkkkk&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="reboot13-git's GitHub stats" /></a>
 
 ### Support Me
 
