@@ -41,8 +41,6 @@ src="https://img.shields.io/github/followers/krutikkkkkkkkk?logo=github&style=fo
 [![reboot13-git's GitHub | Stats](https://stats.quine.sh/reboot13-git/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=krutikkkkkkkkk)
 
 
-[![reboot13-git's GitHub | Languages Over Time](https://stats.quine.sh/reboot13-git/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=krutikkkkkkkkk)
-
 
 [![reboot13-git's Stack Overflow | Stats](https://stats.quine.sh/reboot13-git/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=krutikkkkkkkkk)
 ### Socials
