@@ -1,43 +1,42 @@
-# Hi 👋 I'm Krutik Raut aka UI Critic ~ Figma Boy  
+# Hi 👋 I'm Krutik Raut aka UI Critic
 ### 🚀 Web Developer | Designer | React Enthusiast  
 
-- 🌍 Based in **Vadodara, Gujarat**  
-- 📧 Contact me at **[krutik@infinitylinkage.com](mailto:krutik@infinitylinkage.com)**  
-- 💻 Currently building **[Infinity Linkage](http://infinitylinkage.com)**
-- 
+🌍 **Based in Vadodara, Gujarat**  
+📧 **Contact:** [krutik@infinitylinkage.com](mailto:krutik@infinitylinkage.com)  
+💻 **Building:** [Infinity Linkage](http://infinitylinkage.com)  
+🎨 **Designing:** Everything from websites to UI animations  
+
 ---
 
 ## 🔗 Connect with Me  
 
-[![Twitter](https://img.shields.io/twitter/follow/krutikkkkkkkkk?logo=twitter&style=for-the-badge&color=a855f7&labelColor=1c1917)](https://twitter.com/krutikkkkkkkkk)
-[![GitHub](https://img.shields.io/github/followers/krutikkkkkkkkk?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917)](https://github.com/krutikkkkkkkkk)
-
 <p align="left">
-  <a href="https://www.codepen.io/reboot13" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a>
-  <a href="https://www.dev.to/reboot13_dev" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>
-  <a href="https://discord.com/users/reboot13#2060" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-  <a href="https://www.dribbble.com/reboot13_dev" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a>
-  <a href="https://www.linkedin.com/in/krutikraut" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-  <a href="http://www.instagram.com/krutikkkkkkkkk" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-  <a href="https://www.youtube.com/c/krutikraut" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
+  <a href="https://twitter.com/krutikkkkkkkkk" target="_blank"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" /></a>
+  <a href="https://github.com/krutikkkkkkkkk" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/krutikraut" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.dribbble.com/reboot13_dev" target="_blank"><img src="https://img.shields.io/badge/Dribbble-Designs-pink?style=for-the-badge&logo=dribbble" /></a>
+  <a href="https://www.youtube.com/c/krutikraut" target="_blank"><img src="https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube" /></a>
 </p>
 
 ---
 
 ## 🛠️ Tech Stack  
 
+💻 **Frontend:** JavaScript, TypeScript, React, HTML5, CSS3, Sass, Tailwind  
+⚙️ **Backend:** Node.js, Express.js, PHP  
+🎨 **UI/UX:** Figma, Adobe XD  
+
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-  <a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" /></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express.js" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-  <a href="https://sass-lang.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-  <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express.js" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
 </p>
 
 ---
@@ -45,10 +44,16 @@
 ## 📊 GitHub Stats  
 
 <a href="http://www.github.com/krutikkkkkkkkk">
-  <img src="https://github-readme-stats.vercel.app/api?username=krutikkkkkkkkk&show_icons=true&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true" alt="Krutik's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=krutikkkkkkkkk&show_icons=true&count_private=true&title_color=5b4dff&text_color=000000&icon_color=5b4dff&bg_color=ffff&hide_border=true" alt="Krutik's GitHub stats" />
 </a>
 
+---
 
+## 🎯 Fun Facts  
+
+- 🔥 I critique UI like a food critic reviews gourmet meals! 🍽️  
+- 💡 I can spot misaligned pixels faster than my morning coffee kicks in ☕  
+- 🏆 Always up for a **Figma vs Code** challenge!   
 
 ---
 
