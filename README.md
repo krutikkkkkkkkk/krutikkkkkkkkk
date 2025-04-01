@@ -47,6 +47,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=krutikkkkkkkkk&show_icons=true&count_private=true&title_color=5b4dff&text_color=000000&icon_color=5b4dff&bg_color=ffff&hide_border=true" alt="Krutik's GitHub stats" />
 </a>
 
+[![committers.top badge](https://user-badge.committers.top/india/USERNAME.svg)](https://user-badge.committers.top/india/krutikkkkkkkkk)
+
 ---
 
 ## 🎯 Fun Facts  
